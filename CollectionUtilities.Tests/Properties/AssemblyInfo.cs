@@ -7,9 +7,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("CollectionUtilities.Tests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Landsbankinn")]
+[assembly: AssemblyCompany("Helgi Hafþórsson")]
 [assembly: AssemblyProduct("CollectionUtilities.Tests")]
-[assembly: AssemblyCopyright("Copyright © Landsbankinn 2016")]
+[assembly: AssemblyCopyright("Copyright © Helgi Hafþórsson 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
